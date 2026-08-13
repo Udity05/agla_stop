@@ -114,12 +114,7 @@ export default function App() {
       
 
       <section className="hero">
-
-        <div className="hero-eyebrow">
-          THE SOUNDTRACK OF THE ROAD
-        </div>
-
-
+        
         <h1>
           {scene.title}
         </h1>
