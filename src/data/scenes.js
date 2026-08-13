@@ -8,8 +8,6 @@ export const scenes = {
 
     subtitle: "NEXT STOP",
 
-    time: "05:00 — 07:00",
-
     playlistId: "PLMjKubj8ELu8",
 
     youtube:
@@ -24,8 +22,6 @@ export const scenes = {
     title: "अगला स्टॉप",
 
     subtitle: "NEXT STOP",
-
-    time: "07:00 — 12:00",
 
     playlistId: "PLMjKubj8ELu8",
 
@@ -42,8 +38,6 @@ export const scenes = {
 
     subtitle: "NEXT STOP",
 
-    time: "12:00 — 17:00",
-
     playlistId: "PLMjKubj8ELu8",
 
     youtube:
@@ -58,8 +52,6 @@ export const scenes = {
     title: "अगला स्टॉप",
 
     subtitle: "NEXT STOP",
-
-    time: "17:00 — 05:00",
 
     playlistId: "PLMjKubj8ELu8",
 

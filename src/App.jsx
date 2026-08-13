@@ -82,7 +82,6 @@ export default function App() {
       />
 
 
-      {/* TOP LEFT */}
 
       <header className="top-left">
 
@@ -96,11 +95,6 @@ export default function App() {
             SAFAR
           </div>
 
-        </div>
-
-
-        <div className="route">
-          ROUTE / 01
         </div>
 
       </header>
@@ -171,18 +165,6 @@ export default function App() {
         {scene.time}
       </div>
 
-
-      {/* FOOTER */}
-
-      <footer>
-        <span>
-          A DIGITAL BUS JOURNEY
-        </span>
-
-        <span>
-          MADE FOR THE ROAD
-        </span>
-      </footer>
 
 
 
